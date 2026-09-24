@@ -99,6 +99,3 @@ There was an assumption that there could be notable percentage of rides, which s
 </p>
 
 This could mean that the station is frequently used for leisure purposes, possibly due to its proximity to park areas. <br>
-  
-And surprisingly we can notice interesting pattern: there are few goups of rides that share common endpoints each. For example, a notable number of long rides conclude at *Church Sq Park - 5 St & Park Ave*. <br>
-Is It because there are some special activities at this location, such as events at the church or maybe exercise sessions in the park, but definitely interesting to learn.
